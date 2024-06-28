@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 herberthe0229/iptv-sources
 homeassistant/home-assistant
+mzz2017/v2raya
